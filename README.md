@@ -78,7 +78,7 @@ and then:
 you：我叫Bright，请向我问好
 ```
 
-![image](https://github.com/user-attachments/assets/b573e090-3eeb-45bc-b7a3-16b2d64072c1)
+![image](https://github.com/user-attachments/assets/eaa16fb4-7dbe-40d7-a1e2-4523ac42e821)
 
 ## License
 
