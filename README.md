@@ -72,6 +72,14 @@ and then:
 }
 ```
 
+### local run as sse server mode
+
+```bash
+npm install
+npm run build
+node dist/sse.js
+```
+
 ## AIGC prompt examples
 
 ```
